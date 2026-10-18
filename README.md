@@ -19,13 +19,4 @@ Le projet est organisé par modules d'apprentissage :
 * **IA / Data :** Jupyter Notebooks, Scikit-Learn, NLTK
 * **DevOps & Tools :** Git, GitHub, VS Code
 
----
 
-##  Workflow Quotidien
-
-Pour maintenir ce journal d'apprentissage à jour :
-
-```bash
-git add .
-git commit -m "feat(module): description claire des ajouts"
-git push
